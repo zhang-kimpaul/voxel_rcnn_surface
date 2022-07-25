@@ -1,4 +1,4 @@
-本项目是基于voxel-rcnn基础上的尝试，在voxel roi pooling处，在原ROI的grid point基础上，选取roi的外表面和内表面的grid points，在此基础上进行ROI精修建议。示意图（简化版）如下：
+本项目基于openPCDet框架下编写，在voxel-rcnn基础上进行的尝试，在voxel roi pooling处，在原ROI的grid point基础上，选取roi的外表面和内表面的grid points，在此基础上进行ROI精修建议。示意图（简化版）如下：
 <img src="docs/voxel_rcnn_surface.png" align="right">
 
 
